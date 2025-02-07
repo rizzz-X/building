@@ -1,1 +1,1 @@
-**Changelog** (07-02-2025)%0A%0A- OPHUB Add Kernel 6.x.x
+**Changelog** (07-02-2025)%0A%0A- OPHUB Add Kernel 6.x.x%0A- Add Source Packages By openwrt.ai%0A- Use Deafult Font Terminal
