@@ -1,1 +1,1 @@
---dev
+openwrt_24.10.0--dev
