@@ -1,1 +1,7 @@
 **Changelog** (07-02-2025)%0A%0A- OPHUB Add Kernel 6.x.x%0A- Add Source Packages By openwrt.ai%0A- Use Deafult Font Terminal
+changelog=**Changelog** (07-02-2025)
+
+- OPHUB Add Kernel 6.x.x
+- Add Source Packages By openwrt.ai
+- Use Deafult Font Terminal
+- Add AdGuard Home
