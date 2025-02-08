@@ -1,1 +1,1 @@
-openwrt_24.10.0--dev
+openwrt_24.10.0-08022025--dev
