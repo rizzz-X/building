@@ -1,15 +1,8 @@
--=+ [ 12 Februari 2025 ] +=-
+-=+ [ 13 Februari 2025 ] +=-
 
-Stable Release Akan Segera Hadir.
-- 24.10 OpenWrt Dan ImmortalWrt
-- Fitur
-  - Full Fitur
-  - Simpel Fitur
-
-Insyaallah Malam Ini Akan Di Releases
-Jika Dirasa Sudah Nyaman Dengan Firmware Saat Ini
-Lebih Baik Gunakan Saja Untuk Saat ini
-Tidak Harus Selalu Update
+Mohon maaf sebelumnya saya belum sempat Fix
+Dan Update Firmware Saat Ini
+dikarenakan ada hal penting yang mendadak.
 
 Salam Hangat @RizkiKotet
 
