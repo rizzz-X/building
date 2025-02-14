@@ -10,7 +10,7 @@ listpackages: [
 
 ]
 
-nama: "rtawrt"
+nama: "RizzWrt"
 source: "custom"
 listpackages: [
 
